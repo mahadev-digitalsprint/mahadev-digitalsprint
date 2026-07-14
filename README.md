@@ -1,9 +1,13 @@
-<h1 align="center">Hi there, I'm Mahadev 👋</h1>
-
-<h3 align="center">Generative AI Engineer building multi-agent systems with LangGraph & MCP</h3>
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00e676&height=200&section=header&text=Mahadev%20Bamma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20LangGraph%20%2B%20Multi-Agent%20Systems&descAlignY=55&descSize=18" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahadevbamma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Building+multi-agent+systems+with+LangGraph;Orchestrating+specialist+AI+agents;Currently+shipping+THriveX+Clinical;Exploring+persistent+agent+memory" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,6 +54,11 @@ I've built automation agents for finance auditing, competitor analysis, LinkedIn
   <img src="https://github-profile-trophy.vercel.app/?username=mahadev-digitalsprint&row=1&margin-w=15&theme=darkhub" />
 </p>
 
+<!-- Snake contribution animation — requires one-time GitHub Action setup, see note below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahadev-digitalsprint/mahadev-digitalsprint/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahadev-digitalsprint&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
 </p>
@@ -57,3 +66,5 @@ I've built automation agents for finance auditing, competitor analysis, LinkedIn
 ---
 
 <sub>⚡ Currently exploring the "LLM Wiki" idea — a shared knowledge layer letting AI agents inherit prior architectural context across sessions.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,100:1a1b27&height=100&section=footer" />
