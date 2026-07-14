@@ -1,83 +1,59 @@
-# Hey, I'm Mahadev 👋
+<h1 align="center">Hi there, I'm Mahadev 👋</h1>
 
-### 🧠 Generative AI Engineer, building multi-agent systems that ship
+<h3 align="center">Generative AI Engineer building multi-agent systems with LangGraph & MCP</h3>
 
-```python
-class MahadevBamma:
-    def __init__(self):
-        self.role = "Generative AI Engineer @ DigitalSprint AI Solutions"
-        self.location = "Bengaluru, Karnataka, India"
-        self.focus = ["Multi-agent orchestration", "LangGraph", "MCP", "RAG"]
-        self.currently_building = "THriveX Clinical — multi-agent clinical AI platform"
-
-    def says_hi(self):
-        return "Let's build something agentic 🤖"
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahadevbamma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 About
+### 🚀 About me
 
-I design and orchestrate **multi-agent systems** using LangGraph and MCP — with a focus on prompt engineering, model evaluation, and turning LLMs into real, scalable products rather than demos.
+I design and orchestrate **multi-agent AI systems** using LangGraph and MCP — with a focus on prompt engineering, model evaluation, and production-grade reliability rather than proof-of-concept demos.
 
-I've built automation agents spanning finance auditing, competitor analysis, daily LinkedIn content generation, project planning assistants, vertical-specific domain agents, and RAG-based knowledge assistants — each designed to plug AI directly into business data and workflows.
+I've built automation agents for finance auditing, competitor analysis, LinkedIn content generation, project planning, and RAG-based knowledge assistants. Currently building **THriveX Clinical**, a multi-agent clinical consultation platform with parallel specialist agents, a safety-reviewer layer, voice intake, and lab-report OCR.
 
-Right now, most of my energy goes into **THriveX Clinical**: a multi-agent clinical consultation platform with parallel specialist agents (Cardiology, Endocrinology, Pulmonology, Neurology, General Internal Medicine), a safety-reviewer agent, voice intake via Azure Speech, and a lab-report OCR pipeline.
-
----
-
-## 🛠️ Core Skills
-
-| Category | Stack |
-|---|---|
-| **Agentic AI** | LangGraph · LangChain · MCP · Multi-agent orchestration |
-| **Context Engineering** | Prompt engineering · RAG pipelines · Model evaluation |
-| **Data Science** | Python · Vector search · Data pipelines |
-| **Infra** | FastAPI · Docker · Kubernetes (GKE) · Cloud SQL |
-| **Cloud/AI Platforms** | Oracle Cloud Infrastructure · Claude · Azure Speech Services |
+- 🔭 Currently building: **THriveX Clinical** — multi-agent clinical AI platform
+- 🌱 Exploring: persistent agent memory & shared context layers for stateless AI workflows
+- 🏆 Certified: Claude Certified Architect (Foundations) · OCI 2025 Generative AI Professional · OCI 2025 Data Science Professional · Oracle AI Vector Search
 
 ---
 
-## 🏆 Certifications
+### 🛠️ Tech Stack
 
-- 🟢 **Claude Certified Architect** — Foundations
-- 🟢 **Oracle Cloud Infrastructure 2025** — Certified Generative AI Professional
-- 🟢 **Oracle Cloud Infrastructure 2025** — Certified Data Science Professional
-- 🟢 **Oracle AI Vector Search** — Certified Professional
-- 🟢 **Introduction to Agent Skills** — Certificate of Completion
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,azure,git,github&theme=dark" />
+</p>
 
----
-
-## 💼 Experience
-
-**Generative AI Engineer** · DigitalSprint AI Solutions
-`Apr 2025 – Present · Bengaluru`
-
-**Generative AI Intern** · TensorHub Technologies
-`Oct 2024 – Apr 2025 · Bengaluru`
-
-**Intern** · Rumango
-`Dec 2022 – Feb 2023 · Bengaluru`
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🎓 Education
+### 📊 GitHub Stats
 
-- **CMR University** — Master of Computer Applications (MCA), Computer Software Technology *(2022 – 2023)*
-- **Oxford College of Computer Applications** — BCA *(2017 – 2020)*
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahadev-digitalsprint&show_icons=true&count_private=true&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev-digitalsprint&layout=compact&theme=dark&hide_border=true" width="35%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahadev-digitalsprint&bg_color=1a1b27&color=fff&line=00e676&point=403d3d&area=true&hide_border=true" width="90%"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahadev-digitalsprint&row=1&margin-w=15&theme=darkhub" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mahadev-digitalsprint&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
+</p>
 
 ---
 
-## 🌐 Languages
-
-Kannada (Native) · English · Hindi · Marathi · Telugu
-
----
-
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahadevbamma-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahadevbamma)
-
----
-
-<sub>⚡ Currently exploring: persistent agent memory and how to give stateless AI workflows a shared knowledge layer across sessions.</sub>
+<sub>⚡ Currently exploring the "LLM Wiki" idea — a shared knowledge layer letting AI agents inherit prior architectural context across sessions.</sub>
